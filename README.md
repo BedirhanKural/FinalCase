@@ -1,2 +1,1 @@
-# FinalCase
-Akbank web3 practicum final case
+# Akbank web3 practicum final case
